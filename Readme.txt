@@ -1,6 +1,6 @@
-Thanks for downloading this template!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+
+Template Name: Padmarao kommula Portfolio
+Template URL: https://github.com/padmaraoui/padmaraoui.github.io.git
 Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+License: https://github.com/padmaraoui/padmaraoui.github.io.git
